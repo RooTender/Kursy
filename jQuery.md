@@ -122,9 +122,9 @@ $('.panel-button').on('click', function() {
     
     var panelID = $(this).attr('data-panel');	//  utwórz zmienną 'panelID', która będzie 													przechowywała wartość atrybutu 'data-panel'
     
-    alert(panelID);							  //  wyświetl komunikat ze zmienną
+    alert(panelID);				//  wyświetl komunikat ze zmienną
     
-    $('#'+panelID).toggle();				   //  ukryj panel poprzez zastosowanie 														konkatenacji
+    $('#'+panelID).toggle();			//  ukryj panel poprzez zastosowanie 														konkatenacji
 });
 ```
 
