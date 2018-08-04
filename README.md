@@ -9,7 +9,7 @@ Od dosyć dawna tworzyłem swoje własne notatki na temat języków programowani
 
 
 ## Błędy/Ulepszenia
-Jeśli widzisz błąd czy masz pomysł na udoskonalenie *mini-dokumentacji* możesz wysłać prośbę o uwzględnienie poprawek. W odrzuconych requestach będzie wyjaśnienie dotyczące powodu odmowy.
+Jeśli widzisz błąd czy masz pomysł na udoskonalenie *mini-dokumentacji* możesz wysłać prośbę o rozpatrzenie swojej propowanej poprawki. W przypadku odrzucenia requesta, będzie wyjaśnienie dotyczące powodu odmowy. Osoby, które wprowadziły istotne poprawki zostaną uwzględnione wśród osób, które się przyczyniły do wspierania danego projektu.
 
 
 ## Licencja
