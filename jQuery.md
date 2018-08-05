@@ -3,7 +3,7 @@
 
 ## O jQuery
 
-**jQuery** to biblioteka programistyczna dla języka <u>Javascript</u>. Pozwala na robienie multum rzeczy sto razy szybciej. Dodatkowo potrafi dynamiczniej posługiwać się **DOM**'em, **CSS**'em, **HTML**'em  oraz **AJAX**'em. Zaleca się ustawianie go w stopce strony internetowej, jednak powinien być on zarówno wczytywany przez stronę w <u>pierwszej kolejności</u>.
+**jQuery** to biblioteka programistyczna dla języka <u>Javascript</u>. Pozwala na robienie multum rzeczy sto razy szybciej. Dodatkowo potrafi dynamiczniej posługiwać się **DOM**'em, **CSS**'em, **HTML**'em  oraz **AJAX**'em. Zaleca się ustawianie go w stopce strony internetowej, jednak w <u>pierwszej kolejności </u>powinien być on wczytywany przez stronę.
 <br/><br/><br/><br/>
 
 ## Podstawy
